@@ -8,6 +8,7 @@ Number must be numeric and may contain * and #
 # Some examples:
 ## Valid:
 Redd ||| 7333
+
 <color=black>VOID</color> ||| 0000
 
 ## Invalid:
