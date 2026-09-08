@@ -7,9 +7,9 @@ Number must be numeric and may contain * and #
 
 # Some examples:
 ## Valid:
-Redd ||| 7333
+`Redd ||| 7333`
 
-<color=black>VOID</color> ||| 0000
+`<color=black>VOID</color> ||| 0000`
 
 ## Invalid:
-3Vi| *N3 |||69420! 
+`3Vi| *N3 |||69420! `
