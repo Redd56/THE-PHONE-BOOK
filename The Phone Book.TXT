@@ -1,5 +1,6 @@
 <color=#EA9DFF>Redd</color> ||| 7333
 Finneas Former ||| 3466327
+<color=blue>casts</color> ||| 911
 SolacianAllie ||| 4407588699833
 myaow? ||| 123321
 tricksterfox ||| 621
@@ -10,7 +11,7 @@ Rockman Rock ||| 8675309
 atticgamer1 ||| 31415926535
 Prism ||| 069222
 mosssupply ||| 01189998819991197253
-Phinix ||| 6
+phinx ||| 6
 campfireharvest ||| 67
 Sonako (Soko Bloodfeather) ||| 711
 TARDISS ||| 3141592
@@ -53,7 +54,6 @@ Presnooked ||| 6998008
 D2whiplash ||| 4026969
 starblazer0 ||| 690
 3xxsy ||| 39979
-casts ||| 911
 huntermack ||| 69420
 everydaygremlin ||| 774312
 iijj22gg ||| 22
