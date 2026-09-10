@@ -82,3 +82,6 @@ Etoxxy ||| 8675309
 <color=red>CharonFaustinus</color> ||| 832768 (teapot)
 kaestral ||| 686237 (NUMBER)
 anquietas-sys ||| 2056
+ManiaDeluxe ||| *#*
+Lamp ||| #*#
+
