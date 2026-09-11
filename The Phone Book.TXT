@@ -79,8 +79,8 @@ Zadkiel115 ||| 115\\
 Koy_o_T (coshote) ||| 316730\\
 Etoxxy ||| 8675309\\
 <color=#c4e6ff>Noble</color> ||| 364\\
-<color=red>CharonFaustinus</color> ||| 832768 (teapot)\\
-kaestral ||| 686237 (NUMBER)\\
+<color=red>CharonFaustinus</color> ||| 832768\\
+kaestral ||| 686237\\
 anquietas-sys ||| 2056\\
 GreyFoxen ||| 61524\\
 SilverLighting ||| 1337\\
