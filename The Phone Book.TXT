@@ -50,7 +50,7 @@ Null.zip ||| 3152007\\
 KuraVR ||| 420621\\
 Link20407 ||| 2137666\\
 legion's light ||| ###***\\
-Presnooked ||| 6998008\\
+Presnoked ||| 6998008\\
 D2whiplash ||| 4026969\\
 starblazer0 ||| 690\\
 3xxsy ||| 39979\\
@@ -93,3 +93,4 @@ Essie ||| 37743\\
 NovaFox21 ||| 509130327\\
 <color=hero.cyan>EuphieEuphoria</color> ||| 117649\\
 <color=#FFD700>GoldyRaccoony</color> ||| 755\\
+NeoGote ||| 1800NEOGOTE\\
