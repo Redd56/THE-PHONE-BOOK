@@ -91,4 +91,4 @@ mr_soup ||| 756\\
 DeGooblin ||| 000\\
 Essie ||| 37743\\
 NovaFox21 ||| 509130327\\
-<color=hero.cyan>EuphieEuphoria</color> ||| 117649
+<color=hero.cyan>EuphieEuphoria</color> ||| 117649\\
