@@ -11,7 +11,7 @@ Number must be purely alpha numeric and may contain * and #
 
 `<color=black>VOID</color> ||| 0000\\`
 
-`Dinkleburg ||| SEX`
+`Dinkleburg ||| SEX\\`
 
 ## Invalid:
 `3Vi| *N3 |||69420! `
