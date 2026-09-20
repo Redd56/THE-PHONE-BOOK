@@ -117,3 +117,4 @@ yui ||| 4984\\
 basil.psd ||| 3\\
 Rustybot ||| 78789\\
 MilkyWonderhoy ||| 0422\\
+<color=hero.purple>Rosa ||| 863\\
