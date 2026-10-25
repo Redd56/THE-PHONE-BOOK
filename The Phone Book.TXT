@@ -136,3 +136,4 @@ SenoManiac ||| 445908\\
 <color=green>epicEaston197</color> ||| 197\\
 <color=red>Fair Tex</color> ||| 666-1337\\
 ABA ||| 484\\
+<color=magenta>Retrowave</color><color=cyan>Hyena</color> ||| HA*HA*HA (*42*42*42)\\
