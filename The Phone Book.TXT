@@ -47,7 +47,7 @@ ManiaDeluxe ||| *#*\\
 <color=#cb76d8>Robin Douglass</color> ||| 8177240\\
 Lamp ||| #*#\\
 Keiko ||| 1800ASS4CAT\\
-(Public Folder) FearedSlug7 ||| 777777\\
+<color=#ffff00>(Public Folder)</color> <color=#7200ffff>FearedSlug7</color> ||| 777777\\
 Null.zip ||| 3152007\\
 KuraVR ||| 420621\\
 Link20407 ||| 2137666\\
@@ -137,3 +137,4 @@ SenoManiac ||| 445908\\
 <color=red>Fair Tex</color> ||| 666-1337\\
 ABA ||| 484\\
 <color=magenta>Retrowave</color><color=cyan>Hyena</color> ||| HA*HA*HA (*42*42*42)\\
+<color=#00fff1ff>JKayee</color> ||| 237445\\
